@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OilPay</string>
+    <string name="offer_link">https://google.com/</string>
+
+    <string-array name="cashback_oil">
+        <item>КЕШБЕК НА \nЗАПРАВКАХ</item>
+        <item>по всему узбекистану</item>
+    </string-array>
+
+    <string-array name="partners_ship">
+        <item>партнерские сети\nи</item>
+        <item>специальные предложения</item>
+    </string-array>
+
+    <string-array name="built_in_map">
+        <item>встроенная карта,\nнавигатор\nи</item>
+        <item>антирадар</item>
+    </string-array>
+
+    <string-array name="gas_station_network">
+        <item>сети заправочных станций для</item>
+        <item>\nэлектромобилей</item>
+    </string-array>
+
+    <string-array name="info_free_card">
+        <item>бесплатная\nпластиковая карта</item>
+        <item>\nс лимитом\nпо рассрочке</item>
+    </string-array>
+
+    <string name="fast_login_app">Для быстрого входа в приложение</string>
+    <string name="confirm_correct_input">Для подтверждения правильности ввода</string>
+    <string name="come_up_with">Придумать</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="code">код</string>
+
+    <string name="for">для</string>
+    <string name="entrance">входа</string>
+
+    <string name="registration">регистрации</string>
+
+    <string name="enter">Введите</string>
+    <string name="sms_code">смс-код</string>
+
+    <string name="code_have_been_send_to">Код для подтверждения был отправлен на номер \n +998 %1$s</string>
+    <string name="again_send_code">Еще раз отправить код</string>
+    <string name="and">или</string>
+    <string name="call_operator">Связаться с оператором</string>
+    <string name="new_code_after">Вы можете запросить новый код через %1$s</string>
+
+    <string name="access_geo">Доступ к геопозиции</string>
+    <string name="next_after_enable_geo">Чтобы продолжить, включите на устройстве геолокацию</string>
+    <string name="access">Разрешить</string>
+
+    <string name="enter_your_phone">Введите свой номер телефона</string>
+    <string name="placeholder_phone">+998 00 000 00 00</string>
+    <string name="on_here_number_send_code">На этот номер придет СМС-код  необходимый для подтверждения</string>
+
+    <string name="skip">Пропустить</string>
+
+    <string name="i_accept">Я принимаю условия </string>
+    <string name="public_offerts">публичные оферты</string>
+
+    <string name="continue">Продолжить</string>
+
+    <string name="order">Заказать</string>
+
+    <string name="incorrect_code">Вы ввели неверный код</string>
+</resources>
